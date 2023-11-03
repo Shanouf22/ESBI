@@ -1,0 +1,6 @@
+# Ignore Node.js modules in the "client" directory
+client/node_modules/
+
+# Ignore Python packages in the "myenv" directory
+myenv/
+

@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.64709a67.css",
+    "main.js": "/static/js/main.4db5954f.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/banner.png": "/static/media/banner.640d1123ddb08a1dd83e.png",
+    "static/media/education_loan_illus.png": "/static/media/education_loan_illus.f0352bb0e21401fcb682.png",
+    "static/media/home_loan_illus.png": "/static/media/home_loan_illus.648b453408fda20dfeee.png",
+    "static/media/registration_illus.png": "/static/media/registration_illus.0755307c1999dbe49397.png",
+    "static/media/about_us_illus.png": "/static/media/about_us_illus.0bc275da87646947bce4.png",
+    "static/media/requirements_illus.png": "/static/media/requirements_illus.0aa62cc8258dcfb318d6.png",
+    "static/media/login_illus.png": "/static/media/login_illus.b51d056489e43664cd21.png",
+    "static/media/benefits_illus.png": "/static/media/benefits_illus.4f7ebdbf99f2d01c6ddd.png",
+    "static/media/vehicle_loan_illus.png": "/static/media/vehicle_loan_illus.18a919019d2066d4604a.png",
+    "static/media/features_illus.png": "/static/media/features_illus.2ede32d72febbf8073a2.png",
+    "static/media/token_icon.png": "/static/media/token_icon.a154206b6a9244f928c1.png",
+    "static/media/bank_logo.png": "/static/media/bank_logo.d10da68d8e79a9ffb8b1.png",
+    "static/media/instagram_icon.png": "/static/media/instagram_icon.bc603acad2a8cb3bd098.png",
+    "static/media/age_icon.png": "/static/media/age_icon.f29ec8be533a27a8abd4.png",
+    "static/media/loan_icon.png": "/static/media/loan_icon.7cd84aedc79fd2f43cf1.png",
+    "static/media/address_icon.png": "/static/media/address_icon.64af410c6a5f32b5fd4f.png",
+    "static/media/view.png": "/static/media/view.0b5c67b9c9c6e2b4b7d1.png",
+    "static/media/education_icon.png": "/static/media/education_icon.4f7d1ae8fe8f6b52ed84.png",
+    "static/media/hide.png": "/static/media/hide.235905d0c275bc9221cb.png",
+    "static/media/phone_icon.png": "/static/media/phone_icon.20a0ed4204215b0502d9.png",
+    "static/media/user_icon.png": "/static/media/user_icon.33e7df0963941edbeb70.png",
+    "static/media/email_icon.png": "/static/media/email_icon.51b08bcbb5af7a861c31.png",
+    "static/media/register_icon.png": "/static/media/register_icon.ed3a88af6b6919abd24c.png",
+    "index.html": "/index.html",
+    "main.64709a67.css.map": "/static/css/main.64709a67.css.map",
+    "main.4db5954f.js.map": "/static/js/main.4db5954f.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64709a67.css",
+    "static/js/main.4db5954f.js"
+  ]
+}
